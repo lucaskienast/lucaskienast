@@ -2,7 +2,7 @@
 
 - :space_invader: Developing a YugiOh! web application using the MERN stack
 - :necktie: Working as a full stack developer at an investment bank
-- :books: Currently learning Angular and Kotlin for full stack development
+- :books: Currently learning Angular and Kotlin
 - :handshake: Looking to collaborate on fintech and game projects
 
 
