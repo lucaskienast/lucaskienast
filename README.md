@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :space_invader: Developing a YugiOh! web application using the MERN stack
+- :space_invader: Developing a YugiOh! (trading card game) web application using the MERN stack
 - :necktie: Working as a full stack developer at an investment bank
 - :books: Currently learning Angular and Kotlin
 - :handshake: Looking to collaborate on cool fintech and gaming projects
