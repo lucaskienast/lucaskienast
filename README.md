@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+-:space_invader: Currently working on a YugiOh! web application using the MERN stack
+- 🌱 Learning Angular and Kotlin for full stack development
+- 👯 I’m looking to collaborate on fintech and game projects
+
+
 <!--
 **lucaskienast/lucaskienast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
