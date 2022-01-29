@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--:space_invader: Currently working on a YugiOh! web application using the MERN stack
-- 🌱 Learning Angular and Kotlin for full stack development
-- 👯 I’m looking to collaborate on fintech and game projects
+- :space_invader: Working on a YugiOh! web application using the MERN stack
+- :brain: Currently learning Angular and Kotlin for full stack development
+- :handshake: Looking to collaborate on fintech and game projects
 
 
 <!--
