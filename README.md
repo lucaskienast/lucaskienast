@@ -4,7 +4,7 @@
 - :necktie: Working as a full stack developer at an investment bank
 - :chart_with_upwards_trend: Exploring machine learning applications in algotrading
 - :books: Currently learning Angular and Kotlin
-- :handshake: Looking to collaborate on cool fintech and esports projects
+- :handshake: Looking to collaborate on cool fintech projects
 
 
 <!--
