@@ -3,7 +3,7 @@
 - :space_invader: Developing a YuGiOh! (trading card game) web application using the MERN stack
 - :necktie: Working as a full stack developer at an investment bank
 - :chart_with_upwards_trend: Exploring machine learning applications in algotrading
-- :books: Currently learning Angular and Kotlin
+- :books: Currently learning Angular
 - :handshake: Looking to collaborate on cool fintech projects
 
 
