@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- :space_invader: Developing a web-based trading card game using Spring Boot (Java) & Angular (TypeScript)
+- :space_invader: Developing a web-based trading card game using Spring Boot (Java) & React (TypeScript)
 - :necktie: Working as a full stack developer at an investment bank
 - :chart_with_upwards_trend: Exploring machine learning applications in algotrading
 - :books: Currently learning DevOps
-- :handshake: Looking to collaborate on cool fintech projects
+- :handshake: Looking to collaborate on cool fintech and e-sports projects
 
 
 <!--
